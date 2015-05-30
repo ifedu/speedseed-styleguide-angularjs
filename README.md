@@ -1,4 +1,3 @@
-# styleguide-angularjs
 # Guía de estilos para AngularJS
 
 ## Indice
@@ -31,9 +30,10 @@
 
 ### Para una guía de referencia sobre jade, stylus y js(es6) + plantilla para iniciar un proyecto con gulp: https://github.com/ifedu/styleguide-web
 
-### Basada en las guías de estilos:
+### Basada en la guías de estilos:
     - https://github.com/johnpapa/angular-styleguide/edit/master/i18n/es-ES.md
 
+### Librerías usadas
     - AngularJs 1.3
         - Framework JS
         - Angular-ui-router
